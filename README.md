@@ -1,4 +1,4 @@
-# MachineLearning
+# MachineLearning_Project
 
 서울대공원 방문객 예측 모델 실험과 발표 자료를 정리한 저장소입니다.
 
